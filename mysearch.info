@@ -1,0 +1,5 @@
+name = My Search
+description = Create a page with simple node list, searching by word
+core = 7.x
+version = 7.x-1.0
+package = Custom
